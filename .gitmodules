@@ -22,3 +22,6 @@
 [submodule "EduPath2"]
 	path = EduPath2
 	url = https://github.com/malikaHEDDAJI/EduPath
+[submodule "front-end"]
+	path = front-end
+	url = https://github.com/abdelmoughith/Edu-path-project

@@ -1,0 +1,21 @@
+[submodule "eureka-server"]
+	path = eureka-server
+	url = https://github.com/abdelmoughith/eureka-server-global
+[submodule "gateway"]
+	path = gateway
+	url = https://github.com/abdelmoughith/gateway-global
+[submodule "user-service"]
+	path = user-service
+	url = https://github.com/abdelmoughith/user-service-global
+[submodule "analytics-service"]
+	path = analytics-service
+	url = https://github.com/abdelmoughith/analytics-service-global
+[submodule "frontend-edupath"]
+	path = frontend-edupath
+	url = https://github.com/malikaHEDDAJI/EduPath
+[submodule "spring-config"]
+	path = spring-config
+	url = https://github.com/abdelmoughith/spring-config-global
+[submodule "edu-path-project"]
+	path = edu-path-project
+	url = https://github.com/abdelmoughith/Edu-path-project
